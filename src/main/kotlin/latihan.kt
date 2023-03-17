@@ -22,4 +22,8 @@ fun main () {
     println(namaLengkap)
     println(alamat)
     println(umur)
+
+    var namaLengkap2 = "Chaen"
+    namaLengkap2 = "Chaen Genevieve"
+    println(namaLengkap2)
 }
